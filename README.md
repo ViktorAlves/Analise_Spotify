@@ -18,8 +18,8 @@ O dashboard foi projetado para responder de forma rápida às seguintes métrica
 2. **Streams por Língua:** Distribuição do alcance global da música conforme o idioma nativo da faixa.
 3. **Distribuição Geográfica (Países):** Mapeamento do total de streams por país de origem dos artistas.
 4. **Gêneros Musicais com Maior Impacto:** Análise de desempenho por gênero primário (Hip-Hop, Pop, Reggaeton, Rock, etc.).
-5.
-6. ## 🎯 Perguntas de Negócio & Insights Principais
+
+## 🎯 Perguntas de Negócio & Insights Principais
 
 A análise do dashboard permitiu responder a 4 perguntas fundamentais sobre o catálogo:
 
