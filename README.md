@@ -22,19 +22,16 @@ O dashboard foi projetado para responder de forma rápida às seguintes métrica
 A análise do dashboard permitiu responder a 4 perguntas fundamentais sobre o catálogo:
 
 * **Quais são os Top 10 artistas mais ouvidos?**
-  * **Mac DeMarco** lidera o ranking geral de visualizações, seguido de perto por **Benson Boone**, **Dalex** e **Nickelback**.
+  * **Drake** lidera o ranking geral de visualizações, seguido de perto por **Taylor Swift**, **Bad Bunny** e **The Weekend**.
   * A lista traz uma mescla diversificada de artistas de Pop moderno, Rock e música Latina.
 
 * **Como se distribuem os streams por idioma?**
   * O **Inglês** domina de forma esmagadora o volume de reproduções no catálogo.
-  * O **Espanhol** consolida a 2ª posição com forte relevância global, seguido por **Coreano (K-Pop)**, **Alemão** e **Hindi**.
-
-* **Quais países possuem maior presença de artistas na base?**
-  * Artistas originários da **Itália**, **República Dominicana**, **Bélgica**, **República Democrática do Congo** e **Paquistão** destacam-se entre os maiores geradores de reproduções globais da amostra.
+  * O **Espanhol** consolida a 2ª posição com forte relevância global, seguido por **Português**, **Indiano** e **Coreano**.
 
 * **Quais são os gêneros musicais dominantes?**
-  * **R&B** e **Rock** são os dois gêneros de maior representatividade no acumulado de streams.
-  * Estilos como **EDM**, **K-Pop** e **Música Latina** mantêm excelente participação constante no volume total.
+  * **Hip-Hop** e **Pop** são os dois gêneros de maior representatividade no acumulado de streams.
+  * Estilos como **Reggaeton**, **Rock** e **R&B** mantêm excelente participação constante no volume total.
 
 ---
 
