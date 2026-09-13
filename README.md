@@ -1,6 +1,6 @@
 # 🎵 *Spotify Streaming Performance Dashboard*
 
-![Power BIII](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI2-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge)
 ![Spotify Green](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge)
 
